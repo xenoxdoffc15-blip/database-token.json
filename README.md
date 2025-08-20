@@ -1,2 +1,7 @@
 # database-token.json
-DATABASE UNTUK SCRIPT TELE
+{
+  "tokens": [
+    "",
+    "8254935479:AAFWUqrjCtAUMdkZ_OrbKsbp7wxaueQuza8"
+  ]
+}
